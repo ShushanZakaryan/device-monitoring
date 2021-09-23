@@ -39,8 +39,8 @@ _Implementation_
 
  
 _Setup and Run_
- This branch contains 5 project files(cpp/h) with the code and a simple makefile to run under unix environment.  
- It also contains the executable from the VS project and you can run it if you wish by just double-clicking on it.
+ This branch contains 5 project files(cpp/h) with the code and a simple executable to run the code in Windows.  
+ You can run it if you wish by just double-clicking on it.
 
  
 
